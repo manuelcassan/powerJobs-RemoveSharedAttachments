@@ -1,4 +1,4 @@
-[![powerJobs Client](https://img.shields.io/badge/powerJobs_Client-24.0.4-orange.svg)](https://www.coolorange.com/powerjobs)
+[![powerJobs Client](https://img.shields.io/badge/powerJobs_Client-26.0.6-orange.svg)](https://www.coolorange.com/powerjobs)
 
 # Clean-up shared Attachments when a new revision is released
 
@@ -13,7 +13,7 @@ This workflow uses coolOrange **powerJobs Client** to restrict the release of th
 Having valid artifacts on shared drives is crucial to downstream processes of all kinds. Out of date drawings - or other files - on shared drives can cause very expensive production, procurement and tooling mistakes including buying the wrong parts, making out of spec parts to stock or retooling machines incorrectly. All of these cause waste of time, money and materials.
 
 ## Prerequisites
-[powerJobs Client](https://www.coolorange.com/powerjobs) version 24.0.4 or later must be installed on the Vault Explorer machine(s)  
+[powerJobs Client](https://www.coolorange.com/powerjobs) version 26.0.6 or later must be installed on the Vault Explorer machine(s)  
 The PDF on the network folder is a copy of the linked attachment of the drawing in Vault.
 
 ## Event Settings
