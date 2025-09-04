@@ -1,4 +1,4 @@
-[![powerJobs Client](https://img.shields.io/badge/powerJobs_Client-22.0.4-orange.svg)](https://www.coolorange.com/powerjobs)
+[![powerJobs Client](https://img.shields.io/badge/powerJobs_Client-24.0.4-orange.svg)](https://www.coolorange.com/powerjobs)
 
 # Clean-up shared Attachments when a new revision is released
 
